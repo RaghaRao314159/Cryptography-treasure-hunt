@@ -14,7 +14,5 @@ Find the final message by solving the last stage.
 Guide.pdf provides all the necessary hints
 [Answer checker](http://ragha.pythonanywhere.com)
 
-## Challenge Flag
-CYBERLEAGUE{```bR0ncODe``}
 ## Challenge Resources
 image0.png and image1.png are the 2 images involved.
