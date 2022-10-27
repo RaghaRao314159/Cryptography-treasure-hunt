@@ -3,7 +3,7 @@
 ## Challenge Title
 This challenge, inspired by CICADA 3301, involves deciphering for a final hidden message with multiple stages and hints revealed along the way.
 ## Challenge Category
-RSA, stenography, graph theory
+RSA, steganography, graph theory
 ## Challenge Description / Question
 There are 4 stages in this challenge. The hint for a stage is revealed from solving the previous stage.
 For example, suppose the answer to stage 2 is ```water```. This is the hint for stage 3. Guide.pdf gives all the necessary hints and instructions.  [Answer checker](http://ragha.pythonanywhere.com) will help you check your answer for every stage except the final one.
